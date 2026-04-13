@@ -31,4 +31,6 @@ CSS není potřeba upravovat
 
 Nápověda pro syntax props: `let { ukazka } = $props()`
 
-### Počet bodu: ?/100
+### Počet bodu: 99/100
+
+- názvy componentů by měly být velkými písmeny
